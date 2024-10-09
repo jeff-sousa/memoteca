@@ -9,7 +9,7 @@ const ui = {
     document.getElementById("pensamento-autoria").value = pensamento.autoria
   },
 
-  limparFormulario() {
+  limparFormulario() {        
     document.getElementById("pensamento-form").reset();
   },
   
